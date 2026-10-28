@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="10.1" package="dali-buxby" team-leaderid="dali-buxby" version="1.0.0">
+  <profile name="tizen"/>
+  <ui-application appid="dali-buxby" exec="libdali-buxby-main.so" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+    <label>Samsong Buxby</label>
+    <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
+  </ui-application>
+  <ui-application appid="dali-buxby.day" exec="libdali-buxby-day.so" type="capp" multiple="false" taskmanage="false" nodisplay="false">
+    <label>Samsong Buxby</label>
+    <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
+  </ui-application>
+  <ui-application appid="dali-buxby.activity" exec="libdali-buxby-activity.so" type="capp" multiple="false" taskmanage="false" nodisplay="false">
+    <label>Samsong Buxby</label>
+    <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
+  </ui-application>
+  <privileges>
+    <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+    <privilege>http://tizen.org/privilege/appmanager.kill</privilege>
+  </privileges>
+</manifest>

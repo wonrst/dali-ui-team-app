@@ -1,0 +1,68 @@
+# Samsong Buxby reference sample. SPDX-License-Identifier: Apache-2.0
+msgid ""
+msgstr ""
+"Project-Id-Version: dali-buxby 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-10-28 14:00+0900\n"
+"Last-Translator: Samsong Buxby sample\n"
+"Language-Team: en_US\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SID_APP_NAME"
+msgstr "Samsong Buxby"
+
+msgid "SID_TAGLINE"
+msgstr "Your everyday, a little brighter."
+
+msgid "SID_EYEBROW"
+msgstr "MADE FOR YOUR MOMENT"
+
+msgid "SID_TITLE"
+msgstr ""
+"Good things\n"
+"start here."
+
+msgid "SID_DESCRIPTION"
+msgstr ""
+"Make room for what matters.\n"
+"I'll help with the little things."
+
+msgid "SID_SUGGESTIONS_TITLE"
+msgstr "A little inspiration"
+
+msgid "SID_EVENING_TITLE"
+msgstr "A quieter evening"
+
+msgid "SID_REFRESH_TITLE"
+msgstr "A fresh perspective"
+
+msgid "SID_EVENING_DESCRIPTION"
+msgstr ""
+"A softer light. Your favourite music.\n"
+"Leave a little space to slow down."
+
+msgid "SID_REFRESH_DESCRIPTION"
+msgstr ""
+"A short walk. A new playlist.\n"
+"Make an ordinary moment your own."
+
+msgid "SID_LANGUAGE_TITLE"
+msgstr "Make yourself at home"
+
+msgid "SID_FOOTER"
+msgstr "A little help, in your language."
+
+msgid "SID_LANGUAGE_CHANGE_ERROR"
+msgstr "Couldn't change the language. Please try again."
+
+msgid "SID_LANGUAGE_ENGLISH"
+msgstr "English"
+
+msgid "SID_LANGUAGE_KOREAN"
+msgstr "한국어"
+
+msgid "SID_LANGUAGE_ARABIC"
+msgstr "العربية"

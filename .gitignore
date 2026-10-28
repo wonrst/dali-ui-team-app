@@ -1,0 +1,4 @@
+/build*/
+/artifacts/
+/.dev/
+__pycache__/

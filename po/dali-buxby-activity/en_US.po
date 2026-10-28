@@ -1,0 +1,48 @@
+# Samsong Buxby reference sample. SPDX-License-Identifier: Apache-2.0
+msgid ""
+msgstr ""
+"Project-Id-Version: dali-buxby 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-10-28 14:00+0900\n"
+"Last-Translator: Samsong Buxby sample\n"
+"Language-Team: en_US\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SID_EYEBROW"
+msgstr "YOUR WEEKLY RHYTHM"
+
+msgid "SID_TOTAL_TIME"
+msgstr "4 h 35 m"
+
+msgid "SID_DESCRIPTION"
+msgstr "Time for yourself"
+
+msgid "SID_TREND"
+msgstr "+18%"
+
+msgid "SID_FOOTER"
+msgstr "Minutes each day · sample week"
+
+msgid "SID_MONDAY"
+msgstr "Mon"
+
+msgid "SID_TUESDAY"
+msgstr "Tue"
+
+msgid "SID_WEDNESDAY"
+msgstr "Wed"
+
+msgid "SID_THURSDAY"
+msgstr "Thu"
+
+msgid "SID_FRIDAY"
+msgstr "Fri"
+
+msgid "SID_SATURDAY"
+msgstr "Sat"
+
+msgid "SID_SUNDAY"
+msgstr "Sun"

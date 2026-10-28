@@ -1,0 +1,41 @@
+# Samsong Buxby reference sample. SPDX-License-Identifier: Apache-2.0
+msgid ""
+msgstr ""
+"Project-Id-Version: dali-buxby 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-10-28 14:00+0900\n"
+"Last-Translator: Samsong Buxby sample\n"
+"Language-Team: ar_AE\n"
+"Language: ar_AE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SID_EYEBROW"
+msgstr "مساحة صغيرة لك"
+
+msgid "SID_TITLE"
+msgstr ""
+"ظهيرتك،\n"
+"على مهل."
+
+msgid "SID_WALK_TIME"
+msgstr "١٥:٣٠"
+
+msgid "SID_UNWIND_TIME"
+msgstr "١٨:٠٠"
+
+msgid "SID_WALK_TITLE"
+msgstr "اخرج قليلًا"
+
+msgid "SID_UNWIND_TITLE"
+msgstr "استرخِ في المنزل"
+
+msgid "SID_WALK_DESCRIPTION"
+msgstr "هواء نقي وذهن أصفى."
+
+msgid "SID_UNWIND_DESCRIPTION"
+msgstr "موسيقاك المفضلة تنتظرك."
+
+msgid "SID_FOOTER"
+msgstr "يوم نموذجي · إلهام بسيط ليومك"

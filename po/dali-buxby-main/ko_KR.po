@@ -1,0 +1,68 @@
+# Samsong Buxby reference sample. SPDX-License-Identifier: Apache-2.0
+msgid ""
+msgstr ""
+"Project-Id-Version: dali-buxby 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-10-28 14:00+0900\n"
+"Last-Translator: Samsong Buxby sample\n"
+"Language-Team: ko_KR\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SID_APP_NAME"
+msgstr "Samsong Buxby"
+
+msgid "SID_TAGLINE"
+msgstr "당신의 일상을 조금 더 빛나게."
+
+msgid "SID_EYEBROW"
+msgstr "당신의 순간을 위해"
+
+msgid "SID_TITLE"
+msgstr ""
+"좋은 하루의\n"
+"시작, 여기서."
+
+msgid "SID_DESCRIPTION"
+msgstr ""
+"소중한 일에 마음을 쏟으세요.\n"
+"작은 일들은 제가 도울게요."
+
+msgid "SID_SUGGESTIONS_TITLE"
+msgstr "일상에 작은 영감을"
+
+msgid "SID_EVENING_TITLE"
+msgstr "조금 더 여유로운 저녁"
+
+msgid "SID_REFRESH_TITLE"
+msgstr "새로운 시선으로"
+
+msgid "SID_EVENING_DESCRIPTION"
+msgstr ""
+"은은한 조명과 좋아하는 음악.\n"
+"잠시 쉬어 갈 여유를 만들어 보세요."
+
+msgid "SID_REFRESH_DESCRIPTION"
+msgstr ""
+"짧은 산책과 새로운 음악.\n"
+"평범한 순간을 나답게 채워 보세요."
+
+msgid "SID_LANGUAGE_TITLE"
+msgstr "편한 언어로 함께해요"
+
+msgid "SID_FOOTER"
+msgstr "당신의 언어로 전하는 작은 도움."
+
+msgid "SID_LANGUAGE_CHANGE_ERROR"
+msgstr "언어를 변경하지 못했어요. 다시 시도해 주세요."
+
+msgid "SID_LANGUAGE_ENGLISH"
+msgstr "English"
+
+msgid "SID_LANGUAGE_KOREAN"
+msgstr "한국어"
+
+msgid "SID_LANGUAGE_ARABIC"
+msgstr "العربية"

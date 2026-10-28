@@ -1,0 +1,41 @@
+# Samsong Buxby reference sample. SPDX-License-Identifier: Apache-2.0
+msgid ""
+msgstr ""
+"Project-Id-Version: dali-buxby 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-10-28 14:00+0900\n"
+"Last-Translator: Samsong Buxby sample\n"
+"Language-Team: en_US\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SID_EYEBROW"
+msgstr "A LITTLE ROOM FOR YOU"
+
+msgid "SID_TITLE"
+msgstr ""
+"Your afternoon,\n"
+"unhurried."
+
+msgid "SID_WALK_TIME"
+msgstr "15:30"
+
+msgid "SID_UNWIND_TIME"
+msgstr "18:00"
+
+msgid "SID_WALK_TITLE"
+msgstr "Step outside"
+
+msgid "SID_UNWIND_TITLE"
+msgstr "Unwind at home"
+
+msgid "SID_WALK_DESCRIPTION"
+msgstr "A little fresh air. A clearer mind."
+
+msgid "SID_UNWIND_DESCRIPTION"
+msgstr "Your favourite music is waiting."
+
+msgid "SID_FOOTER"
+msgstr "A sample day. A little inspiration for yours."

@@ -1,0 +1,68 @@
+# Samsong Buxby reference sample. SPDX-License-Identifier: Apache-2.0
+msgid ""
+msgstr ""
+"Project-Id-Version: dali-buxby 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-10-28 14:00+0900\n"
+"Last-Translator: Samsong Buxby sample\n"
+"Language-Team: ar_AE\n"
+"Language: ar_AE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SID_APP_NAME"
+msgstr "Samsong Buxby"
+
+msgid "SID_TAGLINE"
+msgstr "يومك، أكثر إشراقًا."
+
+msgid "SID_EYEBROW"
+msgstr "من أجل لحظاتك"
+
+msgid "SID_TITLE"
+msgstr ""
+"لحظات جميلة\n"
+"تبدأ هنا."
+
+msgid "SID_DESCRIPTION"
+msgstr ""
+"امنح ما يهمك مساحة.\n"
+"سأساعدك في التفاصيل الصغيرة."
+
+msgid "SID_SUGGESTIONS_TITLE"
+msgstr "قليل من الإلهام"
+
+msgid "SID_EVENING_TITLE"
+msgstr "أمسية أكثر هدوءًا"
+
+msgid "SID_REFRESH_TITLE"
+msgstr "نظرة جديدة"
+
+msgid "SID_EVENING_DESCRIPTION"
+msgstr ""
+"ضوء هادئ وموسيقاك المفضلة.\n"
+"اترك لنفسك مساحة لتتمهّل."
+
+msgid "SID_REFRESH_DESCRIPTION"
+msgstr ""
+"نزهة قصيرة وموسيقى جديدة.\n"
+"اجعل اللحظات العادية خاصة بك."
+
+msgid "SID_LANGUAGE_TITLE"
+msgstr "اختر لغتك المفضلة"
+
+msgid "SID_FOOTER"
+msgstr "مساعدة بسيطة، بلغتك."
+
+msgid "SID_LANGUAGE_CHANGE_ERROR"
+msgstr "تعذّر تغيير اللغة. حاول مرة أخرى."
+
+msgid "SID_LANGUAGE_ENGLISH"
+msgstr "English"
+
+msgid "SID_LANGUAGE_KOREAN"
+msgstr "한국어"
+
+msgid "SID_LANGUAGE_ARABIC"
+msgstr "العربية"

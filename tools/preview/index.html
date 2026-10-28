@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Samsong Buxby · DALi host preview</title>
+<style>
+  body{margin:32px;background:#131a2c;color:#ecf0ff;font:16px/1.65 system-ui,sans-serif}
+  main{max-width:1400px;margin:auto} h1{font-weight:600}p{color:#bfcce3}
+  nav{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}
+  button{padding:12px 20px;border:1px solid #6985a3;border-radius:14px;color:inherit;background:#253653;cursor:pointer;font:inherit}
+  button[aria-pressed="true"]{background:#bef5e5;color:#183846}
+  img{width:100%;height:auto;border-radius:16px;border:1px solid #394864}
+  a{color:#bef5e5}
+</style>
+<main>
+<h1>Samsong Buxby</h1>
+<p>1920 × 1080 · 실제 DALi/X11 캡처 · Main + Day + Activity</p>
+<nav aria-label="캡처 선택">
+<button data-name="motion-launch" data-ext="gif" aria-pressed="false">앱 시작 애니메이션</button>
+<button data-name="motion-ko" data-ext="gif" aria-pressed="false">한국어 Reveal</button>
+<button data-name="motion-ar" data-ext="gif" aria-pressed="false">아랍어 Reveal</button>
+<button data-name="en_US" aria-pressed="false">English</button>
+<button data-name="ko_KR" aria-pressed="true">한국어</button>
+<button data-name="ar_AE" aria-pressed="false">العربية</button>
+<button data-name="expanded-card" aria-pressed="false">추천 카드 펼침</button>
+<button data-name="pressed-card" aria-pressed="false">카드 누름 효과</button>
+<button data-name="failed-set" aria-pressed="false">언어 설정 실패</button>
+<button data-name="focus-day" aria-pressed="false">서브 창 포커스</button>
+<button data-name="focus-rtl" aria-pressed="false">RTL 키보드 포커스</button>
+</nav>
+<img id="preview" src="../../artifacts/preview/ko_KR.png" alt="한국어: 오른쪽 메인 창, 왼쪽 일정과 활동 차트">
+<p>각 화면은 같은 프로세스에서 언어를 전환하며 캡처했습니다. 호스트에서는 시스템 대체 폰트를 사용합니다.
+Team/appfw 콜백, 앱 언어 격리, TV 컴포지터 동작은 타깃 검증 전입니다.</p>
+<p><a href="../../artifacts/preview/checks.json">호스트 검사 결과</a> · <a href="../../artifacts/preview/focus-checks.json">키보드 검사 결과</a> · <a href="../../artifacts/preview/motion-checks.json">애니메이션 검사 결과</a> · <a href="../../README.md">빌드·실행 README</a></p>
+</main>
+<script>
+document.querySelectorAll('button').forEach(button => button.addEventListener('click', () => {
+  document.querySelectorAll('button').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+  document.getElementById('preview').src = '../../artifacts/preview/' + button.dataset.name + '.' + (button.dataset.ext || 'png');
+  document.getElementById('preview').alt = button.textContent + ': Samsong Buxby 세 창';
+}));
+</script>
+</html>
