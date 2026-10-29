@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="10.1" package="dali-ui-team-app" team-leaderid="dali-ui-team-app" version="1.0.0">
+  <profile name="tizen"/>
+  <ui-application appid="dali-ui-team-app" exec="libdali-ui-team-main.so" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+    <label>DALi Team App</label>
+    <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
+  </ui-application>
+  <ui-application appid="dali-ui-team-app.first" exec="libdali-ui-team-first.so" type="capp" multiple="false" taskmanage="false" nodisplay="false">
+    <label>DALi Team App</label>
+    <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
+  </ui-application>
+  <ui-application appid="dali-ui-team-app.second" exec="libdali-ui-team-second.so" type="capp" multiple="false" taskmanage="false" nodisplay="false">
+    <label>DALi Team App</label>
+    <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
+  </ui-application>
+  <privileges>
+    <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+    <privilege>http://tizen.org/privilege/appmanager.kill</privilege>
+  </privileges>
+</manifest>
